@@ -8,7 +8,7 @@ My goal is to become a fully capable developer, able to design, implement, and d
 
 ## 🚀 Technologies and Tools I Master
 
-| Technology / Tool | Logo |
+| Technology / Tool |  |
 |-------------------|-------|
 | Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> |
 | Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> |
