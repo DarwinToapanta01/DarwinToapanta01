@@ -57,20 +57,6 @@
   <img src="https://streak-stats.demolab.com?user=darwin-code&theme=github-dark-blue&hide_border=true"/>
 </p>
 
----
-
-## 📂 Featured Projects
-<div align="center">
-
-| 🔗 Repository | 📝 Description | 💡 Tech |
-|--------------|----------------|----------|
-| **ZapatoExpress** | RESTful shoe marketplace with authentication. | Laravel · React · Tailwind · PostgreSQL |
-| **User Registration (PHP)** | User registration form with email validation and file-based storage. | PHP · HTML · CSS |
-| **Lab Manager (Java App)** | Desktop system to manage labs, connected to MySQL. | Java · JDBC · MySQL |
-| **Client CRUD Web Interface** | Client management with dynamic table and image handling. | HTML · CSS · JavaScript |
-| **Random User List** | Dynamic table rendering consuming RandomUser API. | HTML · CSS · JS |
-
-</div>
 
 ---
 
