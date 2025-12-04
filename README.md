@@ -1,45 +1,88 @@
-# 👋 Hello! I'm Darwin Toapanta
+<!-- 👋 Intro rápida -->
+<h1 align="center">👨‍💻 Hello, I'm <span style="color:#0A66C2;">Darwin Toapanta</span> 👋</h1>
 
-I am a developer in constant growth, passionate about learning, building, and solving real-world problems through technology. Throughout my projects and studies, I have worked with various tools, frameworks, and programming languages, combining backend, frontend, databases, and systems.
+<!-- Descripción corta -->
+<p align="center">
+  Passionate software developer focused on clean code, scalable solutions, and constant growth.<br/>
+  I love turning ideas into meaningful products that create real impact.
+</p>
 
-My goal is to become a fully capable developer, able to design, implement, and deploy complete solutions.
-
----
-
-## 🚀 Technologies and Tools I Master
-
-| Technology / Tool |  |
-|-------------------|-------|
-| Node.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/> |
-| Express.js | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/> |
-| .NET / C# | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/> |
-| React Native | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/> |
-| Expo | <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="40"/> |
-| PostgreSQL | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/> |
-| MongoDB | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/> |
-| Ubuntu Server | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="40"/> |
-| SSH | <img src="https://cdn-icons-png.flaticon.com/512/599/599043.png" width="40"/> |
-| Pandas (Python) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/> |
-| NumPy (Python) | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/> |
-
-## 📘 Highlighted Projects and Practices
-- Development of REST APIs with Node.js + Express
-- Database migration from PostgreSQL to MongoDB using Mongoose
-- Construction of functional screens in React Native (lists, API consumption, state management)
-- Implementation of business logic in .NET with Entity Framework
-- Configuration of Ubuntu Servers for academic practice
-- Creation of technical documentation in English for software projects
+<p align="center">
+  <a href="https://github.com/darwin-code">
+    <img src="https://img.shields.io/github/followers/darwin-code?label=Followers&style=social" alt="followers"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=darwin-code&style=flat&color=blue" alt="Profile views"/>
+</p>
 
 ---
 
-## 💡 Work Philosophy
-I am disciplined, persistent, and analytical. I like to understand the root of errors, research solutions, and apply best practices.
+## 🧑‍💻 About Me
 
-I am always looking to improve my skills and take on new challenges, both in backend and frontend.
+- 🎓 **Software Engineering Student / Web & Database Development Certifications**
+- 🛠️ **Main Stack:** Node.js · Express · React Native · .NET · C# · MongoDB · PostgreSQL
+- 🌱 **Currently learning:** Backend architecture · Server administration · API optimization
+- 🤝 Open to collaborating on **Open Source projects** related to education or social impact
+- ☕ **Fun fact:** I love learning new technologies, solving problems with clean code, and improving everything I touch.
 
 ---
 
-## 📫 Want to Contact Me?
-Feel free to reach out through any available platform. Always open to collaborating on projects, solving problems, and continuing to learn.
+## 🚀 Tech Stack
+<div align="center">
 
-Thank you for visiting my profile! 🚀
+| 💻 Category | 🚀 Technologies |
+|------------|----------------|
+| **Frontend** | ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black) ![Expo](https://img.shields.io/badge/-Expo-000000?logo=expo&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
+| **Servers & Tools** | ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white) ![SSH](https://img.shields.io/badge/-SSH-4D4D4D?logo=secure-shell&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
+| **Python Tools** | ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) |
+
+---
+</div>
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darwin-code&show_icons=true&theme=github_dark&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darwin-code&layout=compact&theme=github_dark&hide_border=true&langs_count=6">
+</p>
+
+---
+
+## 🏆 Trophies & Streaks
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=darwin-code&theme=onedark&no-frame=true&row=1&column=7"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=darwin-code&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+---
+
+## 📂 Featured Projects
+<div align="center">
+
+| 🔗 Repository | 📝 Description | 💡 Tech |
+|--------------|----------------|----------|
+| **ZapatoExpress** | RESTful shoe marketplace with authentication. | Laravel · React · Tailwind · PostgreSQL |
+| **User Registration (PHP)** | User registration form with email validation and file-based storage. | PHP · HTML · CSS |
+| **Lab Manager (Java App)** | Desktop system to manage labs, connected to MySQL. | Java · JDBC · MySQL |
+| **Client CRUD Web Interface** | Client management with dynamic table and image handling. | HTML · CSS · JavaScript |
+| **Random User List** | Dynamic table rendering consuming RandomUser API. | HTML · CSS · JS |
+
+</div>
+
+---
+
+## 📫 Contact
+
+<p align="center">
+  <a href="mailto:andrestpaez15@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/darwin-toapanta-19024b303/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/andres._.t/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white"></a>
+</p>
+
+---
+
+> _“Perseverance is the key to achieving your goals.”_
+
