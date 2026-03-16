@@ -69,14 +69,54 @@
 
 # 📌 Featured Projects
 
-🔹 **AI Intelligent Firewall**  
-Machine learning based intrusion prevention system for network security.
+### 🗺️ HORUS – Collaborative Citizen Surveillance Platform
+Distributed web platform that allows citizens to **report, validate and consult dangerous zones in their city** using geolocation and community verification.
 
-🔹 **Messaging Security Analysis (MITM)**  
-Research project analyzing vulnerabilities in messaging apps against Man-in-the-Middle attacks.
+**Key Features**
+- Geolocated reports with interactive maps
+- Community validation system based on geographic proximity
+- Risk visualization using dynamic color zones
+- Nested comments and user participation
+- Secure authentication with API tokens
 
-🔹 **Inventory & Traceability System for Tire Workshop**  
-Full stack system for inventory management, product traceability, and appointment scheduling.
+**Tech Stack:** React · Laravel · PostgreSQL · Leaflet · Tailwind · Railway · Vercel  
+
+🔗 Repository:  
+https://github.com/DarwinToapanta01/horus
+
+---
+
+### 👟 ZapatoExpress – Online Shoe Marketplace
+Full-stack web application that allows users to **buy, publish and manage shoe listings** through a modern SPA architecture.
+
+**Key Features**
+- Product catalog and detailed product pages
+- User authentication and account management
+- CRUD system for managing product listings
+- Image upload and management
+- Responsive modern UI
+
+**Tech Stack:** React · Laravel · PostgreSQL · Axios · Tailwind CSS  
+
+🔗 Repository:  
+https://github.com/darwin-code/proyecto-venta-zapatos
+
+---
+
+### 🖥️ Lab Manager – Computer Lab Administration System
+Desktop application for managing **computer laboratories, equipment, schedules and maintenance reports**.
+
+**Key Features**
+- Laboratory and equipment management
+- Scheduling and availability tracking
+- User and administrator roles
+- Maintenance and technical incident reports
+- Database integration with MySQL
+
+**Tech Stack:** Java · NetBeans · MySQL · JDBC  
+
+🔗 Repository:  
+https://github.com/darwin-code/lab-manager
 
 ---
 
